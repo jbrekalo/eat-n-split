@@ -1,8 +1,19 @@
-# React + Vite
+# The Ultimate React Course 2023: React, Redux & More
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## The "Eat'n'Split" Project
 
-Currently, two official plugins are available:
+### About the project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a project from Jonas Schmedtmann's <strong>The Ultimate React Course 2023</strong>.
+
+The goal of this project is to learn how to use State, Events and Forms. Also to render some Item Lists, learn and see the differences between State and Props, learn what it means to "Lift up the State" and how to move Copmonents into seperate files.
+
+### Built with
+
+For this project i used:
+
+- React
+- Vanilla CSS
+- Vite
+
+**Have a great day and see you in another project!** 👋👩‍💻
